@@ -7,16 +7,16 @@
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/0THu80lEXN.gif" width=250><br>
+<img src="http://g.recordit.co/sS9G66kAbk.gif" width=250><br>
 
 ### Notes
-One of the issues when building this was setting up the detail view from the collection view. I still plan on implementing the detail view for this app.
-
+~~One of the issues when building this was setting up the detail view from the collection view. I still plan on implementing the detail view for this app.~~
+The next feature to implement is the link to the movie trailer, however, I have not figured that out yet.
 
 # Flix
 
